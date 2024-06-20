@@ -30,4 +30,4 @@ If you have any questions or need further information, please feel free to conta
 
 ---
 
-Thank you for being a part of Xmperesa! Together, we can make a difference.
+_Thank you for being a part of Xmperesa! Together, we can make a difference_
