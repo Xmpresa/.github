@@ -1,6 +1,5 @@
 # Welcome to Xmpresa Organization
 
-![ABC Logo](./xmpresa.jpg)
 
 ## About Us
 
